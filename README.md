@@ -33,3 +33,13 @@ _texto en cursiva_
 | --- |--- | --- | --- 
 |fila 1| fila 2 | fila 3 | Fila 4
 |fila 1| fila 2 | fila 3 | Fila 4
+
+## Salto de línea
+Se hace  
+así.
+
+## citas
+
+>Esto es una cita
+
+<!-- Comentario -->
