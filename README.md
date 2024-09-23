@@ -47,4 +47,4 @@ así.
 ![](images/321547088_139317235627669_3484483960761045935_n.jpg)
 
 # Seccion
-[Enlace a otro documento] (markdown.md)
+[Enlace a otro documento](markdown.md)
